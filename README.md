@@ -49,7 +49,7 @@
 
 👉 **Browse with Ease on Explore Page**: Page: Navigate through various jobs spanning different categories and types.
 
-👉 **Detailed Job Insights**: View comprehensive details, application links, salary info, responsibilities, and qualifications.
+👉 **Detailed Job**: View details, application links, salary info, responsibilities, and qualifications.
 
 👉 **Tailored Job Search**: Find jobs based on a particular title.
 
