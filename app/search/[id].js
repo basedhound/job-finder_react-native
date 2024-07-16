@@ -14,8 +14,8 @@ import { ScreenHeaderBtn, NearbyJobCard } from "../../components";
 import { COLORS, icons, SIZES } from "../../constants";
 import styles from "../../styles/search";
 
-import { RAPID_APY_KEY } from "@env";
-const rapidApiKey = RAPID_APY_KEY;
+import { RAPID_API_KEY } from "@env";
+const rapidApiKey = RAPID_API_KEY;
 
 const JobSearch = () => {
   const params = useSearchParams();
