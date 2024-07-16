@@ -37,21 +37,21 @@
 
 ## <br/> <a name="features">📝 Features</a>
 
-👉 **Visually Appealing UI/UX Design**: Develop an aesthetically pleasing user interface using React Native components.
+👉 **Modern UI/UX Design**: Develop an aesthetically pleasing user interface using React Native components.
 
 👉 **Third Party API Integration**: Fetch data from an external API and seamlessly integrate it into the app.
 
 👉 **Search & Pagination Functionality**: Implement search functionality and pagination for efficient data navigation.
 
-👉 **Custom API Data Fetching Hooks**:Create custom hooks for streamlined and reusable API data fetching.
+👉 **Custom API Data Fetching Hooks**: Create custom hooks for streamlined and reusable API data fetching.
 
 👉 **Dynamic Home Page**: Explore diverse jobs from popular and nearby locations across different categories.
 
 👉 **Browse with Ease on Explore Page**: Page: Navigate through various jobs spanning different categories and types.
 
-👉 **Detailed Job Insights**: View comprehensive job details, including application links, salary info, responsibilities, and qualifications.
+👉 **Detailed Job Insights**: View comprehensive details, application links, salary info, responsibilities, and qualifications.
 
-👉 **Tailored Job Exploration**: Find jobs specific to a particular title 
+👉 **Tailored Job Search**: Find jobs based on a particular title.
 
 👉 **Robust Loading and Error Management**: Ensure effective handling of loading processes and error scenarios. 
 
