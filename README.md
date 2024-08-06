@@ -1,6 +1,6 @@
 <div align="center">
     <a href="" target="_blank">
-      <img src="assets/design/preview-2.webp" alt="Project Banner">
+      <img src="assets/design/preview-1.png" alt="Project Banner">
     </a>
   <h3 align="center">Job Seeker - Mobile App</h3>
 </div>
@@ -21,17 +21,17 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React Native** is a popular framework for building mobile applications using JavaScript and React. It enables developers to create native apps for iOS and Android with a single codebase, leveraging native components for a seamless user experience. React Native's component-based architecture and hot-reloading feature enhance development efficiency and code maintainability.
+- [**React Native**](https://reactnative.dev/docs/getting-started) is a popular framework for building mobile applications using JavaScript and React. It enables developers to create native apps for iOS and Android with a single codebase, leveraging native components for a seamless user experience. React Native's component-based architecture and hot-reloading feature enhance development efficiency and code maintainability.
 
-- **Expo** is an open-source platform designed for React Native development, providing a set of tools and services that simplify the process of building, deploying, and testing mobile applications. It offers a managed workflow with pre-configured native modules, enabling developers to focus on writing JavaScript code without worrying about native code integration. Expo's rich ecosystem and development tools accelerate the development cycle and enhance app performance.
+- [**Expo**](https://docs.expo.dev/) is an open-source platform designed for React Native development, providing a set of tools and services that simplify the process of building, deploying, and testing mobile applications. It offers a managed workflow with pre-configured native modules, enabling developers to focus on writing JavaScript code without worrying about native code integration. Expo's rich ecosystem and development tools accelerate the development cycle and enhance app performance.
 
-- **RapidAPI** is a powerful platform that allows developers to discover, connect, and manage thousands of APIs. It provides a unified access point for a vast array of APIs, enabling easy integration of external data and services into applications. RapidAPI simplifies the process of consuming APIs, making development faster and more efficient.
+- [**RapidAPI**](https://docs.rapidapi.com/) is a powerful platform that allows developers to discover, connect, and manage thousands of APIs. It provides a unified access point for a vast array of APIs, enabling easy integration of external data and services into applications. RapidAPI simplifies the process of consuming APIs, making development faster and more efficient.
 
-- **Axios** is a promise-based HTTP client for JavaScript, widely used for making asynchronous requests to APIs and handling responses. It simplifies the process of sending HTTP requests, managing request and response data, and handling errors. Axios supports various request methods, interceptors, and automatic JSON transformation, making it a versatile tool for interacting with APIs.
+- [**Axios**](https://axios-http.com/docs/intro) is a promise-based HTTP client for JavaScript, widely used for making asynchronous requests to APIs and handling responses. It simplifies the process of sending HTTP requests, managing request and response data, and handling errors. Axios supports various request methods, interceptors, and automatic JSON transformation, making it a versatile tool for interacting with APIs.
 
-- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
+- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
-- **Node.js** is a versatile JavaScript runtime built on Chrome's V8 engine, enabling server-side scripting and the creation of scalable network applications. Its event-driven, non-blocking I/O model makes it lightweight and efficient, perfect for real-time applications that require high throughput. Node.js allows developers to use JavaScript for both client-side and server-side code, streamlining development and enhancing code reusability.
+- [**Node.js**](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) is a versatile JavaScript runtime built on Chrome's V8 engine, enabling server-side scripting and the creation of scalable network applications. Its event-driven, non-blocking I/O model makes it lightweight and efficient, perfect for real-time applications that require high throughput. Node.js allows developers to use JavaScript for both client-side and server-side code, streamlining development and enhancing code reusability.
 
 
 
